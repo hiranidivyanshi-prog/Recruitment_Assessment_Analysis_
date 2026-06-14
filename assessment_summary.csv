@@ -1,0 +1,32 @@
+Grade-Subject,N,Mean(%),Median(%),Mode(%),Std Dev,IQR,Skewness,Mean-Median Gap,Difficulty,Reliability,Composite Score
+Art,13,41.92,45.0,45.0,9.69,10.0,-0.56,3.08,Difficult,Moderate,3
+Commerce,38,48.82,48.0,40.0,18.5,27.0,0.01,0.82,Moderate,High,6
+Dance,11,38.27,34.0,10.0,27.79,45.0,0.7,4.27,Difficult,High,5
+French Teacher,2,72.0,72.0,46.0,36.77,26.0,,0.0,Easy,High,6
+ICSE Biology,67,35.76,36.0,28.0,17.82,25.0,0.39,0.24,Difficult,High,6
+ICSE Chemistry,37,60.76,60.0,62.0,17.09,26.0,0.02,0.76,Moderate,High,6
+ICSE Computer,27,47.67,48.0,18.0,25.45,47.5,0.1,0.33,Moderate,High,6
+ICSE History,17,45.94,32.0,32.0,24.18,35.0,0.66,13.94,Moderate,High,5
+ICSE Maths,16,55.0,54.0,32.0,23.99,41.5,-0.13,1.0,Moderate,High,6
+ICSE Physics,43,40.42,42.0,20.0,19.59,30.0,0.34,1.58,Difficult,High,6
+ISC Accounts,13,39.69,38.0,14.0,15.23,23.0,-0.06,1.69,Difficult,High,6
+ISC Biology,42,32.26,32.5,34.0,15.16,19.5,0.22,0.24,Difficult,High,5
+ISC Chemistry,32,50.38,52.0,52.0,20.02,26.5,-0.14,1.62,Moderate,High,6
+ISC English,18,53.44,54.5,45.0,9.84,14.0,-0.67,1.06,Moderate,Moderate,3
+ISC History,9,44.44,43.0,25.0,18.41,34.0,0.36,1.44,Difficult,High,6
+ISC Maths,29,36.83,32.0,30.0,20.36,26.0,0.96,4.83,Difficult,High,5
+ISC Physics,26,42.46,38.0,20.0,20.2,22.5,0.82,4.46,Difficult,High,5
+Junior English,48,59.81,62.0,62.0,14.71,14.5,-0.72,2.19,Moderate,Moderate,3
+Junior Hindi,43,53.14,57.0,57.0,10.97,14.0,-0.38,3.86,Moderate,High,4
+Junior History,17,50.94,54.0,37.0,11.49,17.0,-0.79,3.06,Moderate,Moderate,3
+Junior Maths,67,35.31,32.0,30.0,14.25,18.0,0.38,3.31,Difficult,High,4
+Junior Science,101,37.33,37.0,28.0,16.7,26.0,0.23,0.33,Difficult,High,6
+Legal Studies,24,63.46,65.0,52.0,18.03,24.5,-0.36,1.54,Moderate,High,6
+Music,11,48.29,43.53,38.8,16.78,11.18,1.0,4.76,Moderate,High,4
+Physical Education,21,69.62,72.0,76.0,18.86,28.0,-0.14,2.38,Moderate,High,6
+Pre-Primary,164,38.71,38.0,36.0,13.11,18.25,0.08,0.71,Difficult,High,4
+Primary Computer,23,44.2,40.0,27.0,16.41,26.25,0.41,4.2,Difficult,High,6
+Primary English,122,39.65,40.0,36.0,12.41,18.75,0.01,0.35,Difficult,High,4
+Primary Maths,95,59.55,62.0,70.0,19.14,26.5,-0.31,2.45,Moderate,High,6
+Robotics,4,38.25,40.5,19.0,14.95,17.5,-0.68,2.25,Difficult,Moderate,3
+Senior Maths ICSE,10,47.0,44.0,30.0,23.16,27.5,0.62,3.0,Moderate,High,5

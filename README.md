@@ -87,7 +87,7 @@ making the paper appear Moderate when most candidates actually found it Difficul
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](Recruitment_Assessment_Quality_Dashboard.png)
 
 ---
 
